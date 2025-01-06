@@ -4,12 +4,12 @@
 * Or you can buy a cheap server from different providers
 
 # Nodes you can run
-* [Teneo social miner](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#teneo)
-* [Bless Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#bless-network-formerly-blockless)
-* [Pipe Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#pipe-network)
-* [Dawn](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#dawn)
-* [Functor Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#functor-network)
-* [OpenlayerAI](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#openlayer-ai-network)
+* [Teneo social miner](https://github.com/nimana851/Extension-Nodes/blob/main/README.md#teneo)
+* [Bless Network](https://github.com/nimana851/Extension-Nodes/blob/main/README.md#bless-network-formerly-blockless)
+* [Pipe Network](https://github.com/nimana851/Extension-Nodes/blob/main/README.md#pipe-network)
+* [Dawn](https://github.com/nimana851/Extension-Nodes/blob/main/README.md#dawn)
+* [Functor Network](https://github.com/nimana851/Extension-Nodes/blob/main/README.md#functor-network)
+* [OpenlayerAI](https://github.com/nimana851/Extension-Nodes/blob/main/README.md#openlayer-ai-network)
 
 #
 
