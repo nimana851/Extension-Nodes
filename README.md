@@ -69,8 +69,5 @@ sudo apt install htop
 ```
 htop
 ```
-* Now you can check the usage of CPU cores, Memory(RAM), swap RAM, and manage the live tasks on your VPS
-
-![Screenshot_2](https://github.com/user-attachments/assets/ae9c648f-3c94-43cb-ad5c-7fc324096c1c)
 
 
